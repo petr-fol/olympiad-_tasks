@@ -1,1 +1,1 @@
-# olympiad-_tasks
+# olympiad_tasks
